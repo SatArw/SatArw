@@ -30,7 +30,7 @@ I am a 4th year student at IIT Hyderabad studying mechanical engineering.
 
 - :seedling: Exploring Business Development.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I read tech articles and engage the football community in my college with articles, polls and streams.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-arawalli/)
 
@@ -47,6 +47,11 @@ I am a 4th year student at IIT Hyderabad studying mechanical engineering.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="tf" **alt="tf" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="flask" **alt="flask" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SatArw&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **SatArw/SatArw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
