@@ -12,6 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=SatArw&style=flat-square&color=blue" alt=""/>
 
+---
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,6 +21,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+### : About Me :
+I am a 4th year student at IIT Hyderabad studying mechanical engineering. 
+
+- :telescope: I mostly work on Machine learning and Robotics projects.
+
+- :seedling: Exploring Business Development.
+
+- :zap: In my free time, I read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-arawalli/)
+  
 <!--
 **SatArw/SatArw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
