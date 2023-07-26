@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/satwik-arawalli/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.linkedin.com/in/satwik-arawalli-6403641b8/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
   hey there
