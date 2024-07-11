@@ -20,7 +20,7 @@
 ### 👨‍💻 About Me :
 I am a mechanical engineering graduate from IIT Hyderabad with a keen interest and experience in robotics. 
 
-- :telescope: I mostly work on Machine learning and Robotics projects.
+- :telescope: I mostly work on Machine learning and Robotics projects. Currently pursuing the Modern Robotics Specialization from Northwestern University on Coursera.
 
 - :seedling: Exploring Business Development.
 
