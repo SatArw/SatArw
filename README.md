@@ -18,13 +18,13 @@
 
 ---
 ### 👨‍💻 About Me :
-I am a 4th year student at IIT Hyderabad studying mechanical engineering. 
+I am a mechanical engineering graduate from IIT Hyderabad with a keen interest and experience in robotics. 
 
 - :telescope: I mostly work on Machine learning and Robotics projects.
 
 - :seedling: Exploring Business Development.
 
-- :zap: In my free time, I read tech articles and engage the football community in my college with articles, polls and streams.
+- :zap: In my free time, I read tech articles, brainstorm ideas for robots and draw occasionally.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-arawalli/)
 
